@@ -1,3 +1,3 @@
 # Python-for-Beginners
 
-2-1-1 입출력 연습문제
+2_1_1_입출력_연습문제.ipynb
